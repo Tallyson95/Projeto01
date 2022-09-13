@@ -1,0 +1,24 @@
+body{
+    color:black;
+    text-align:center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.container{
+    width: 80%;
+    background-color: aqua;
+    margin-left: 10%;
+}
+
+.mainav{background-color: blueviolet;
+        color: red;
+
+
+}
+
+.mainav li{
+    display: inline;
+    text-decoration: none;
+    font-size: 14px;
+    color: white;
+}
